@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,BRTV北京卫视[高清]
+http://219.145.19.29:55443/tsfile/live/0001_1.m3u8
+#EXTINF:-1,BRTV新闻[高清]
+http://219.145.19.29:55443/tsfile/live/0002_1.m3u8
+#EXTINF:-1,BRTV影视[高清]
+http://219.145.19.29:55443/tsfile/live/0003_1.m3u8
